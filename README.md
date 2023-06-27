@@ -1,5 +1,5 @@
 <h1> ERD Diagram </h1>
-![ERD](/other/ERD.png)
+![ERD](../other/ERD.png)
 <br>
 <h1> UI Screenshots </h1>
 ![1](/other/1.png)
