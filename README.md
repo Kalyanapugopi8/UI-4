@@ -1,7 +1,3 @@
-<h1> ERD Diagram </h1>
-![ERD](https://github.com/Kalyanapugopi8/UI-4/assets/135269892/38cc218c-ee68-4e06-84ae-61cdd8a3bb07)
-
-<br>
 <h1> UI Screenshots </h1>
 
 ![1](https://github.com/Kalyanapugopi8/UI-4/assets/135269892/58b4592d-b8ea-431b-8b52-a275862a3e31)
